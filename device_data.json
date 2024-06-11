@@ -1,0 +1,14 @@
+[
+  {
+    "device_name": "washing machine",
+    "model": "LG1234",
+    "year": 2018,
+    "issues": ["not spinning", "leaking water"]
+  },
+  {
+    "device_name": "refrigerator",
+    "model": "Samsung567",
+    "year": 2020,
+    "issues": ["not cooling", "making noise"]
+  }
+]
