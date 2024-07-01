@@ -64,6 +64,6 @@ Review Documentation: Refer to the docs directory for detailed project documenta
 Debugging: Use print statements or a debugger to trace and fix any issues in the code.
 
 Contact Information
-For further assistance, contact the project team at support@example.com.
+For further assistance, contact the project team at lyanna@cuc.edu.cn.
 
 By following this user manual, you should be able to effectively use the Repair Assistant Chatbot to get help with your home appliance and furniture repairs. Enjoy the peace of mind that comes with knowing you have a reliable assistant to guide you through any household repair challenges!
